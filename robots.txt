@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ADfa-kFesb80.github.io/ayx-entry-com-cn/sitemap.xml
